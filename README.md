@@ -12,15 +12,7 @@ Booking of Priest is also available.
 Pooja Products are- Rice, Incense sticks, Kumkum, Haldi, Sandalwood paste, Pooja Bell, Camphor, etc.
 
 
-
 ![image](https://user-images.githubusercontent.com/61179983/222753258-026b1b82-3e89-4831-b2b2-b83aa775ff5d.png)
-
-
-
-
-
-
-
 
 
 
