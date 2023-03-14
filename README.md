@@ -11,6 +11,17 @@ It suggest near by temples.
 Booking of Priest is also available. 
 Pooja Products are- Rice, Incense sticks, Kumkum, Haldi, Sandalwood paste, Pooja Bell, Camphor, etc.
 
-![image](https://user-images.githubusercontent.com/61179983/222753258-026b1b82-3e89-4831-b2b2-b83aa775ff5d.png)
+
 
 Technology Used: MERN Stack
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(147).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(148).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(149).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(150).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(151).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(152).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(153).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(154).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(155).png">
+<img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(156).png">
+
