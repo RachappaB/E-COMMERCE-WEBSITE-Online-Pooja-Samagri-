@@ -11,7 +11,7 @@ It suggest near by temples.
 Booking of Priest is also available. 
 Pooja Products are- Rice, Incense sticks, Kumkum, Haldi, Sandalwood paste, Pooja Bell, Camphor, etc.
 
-If you need any help mail me piyushkrsingh2108@gmail.com
+If you need any help mail me Rachappabiradar6@gmail.com
 
 Technology Used: MERN Stack
 <img src= "https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(147).png">
